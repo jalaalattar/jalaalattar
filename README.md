@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics. 
 - 🌱 I’m currently learning PSQL and Tableau for data analysis.
 - 💞️ I’m looking to collaborate on Data Related projects. 
-- 📫 I am reacable on this email @mjmattar2000@gmail.com.
+- 📫 I am reacable on this email @jalaalattar@gmail.com.
 
 <!---
 jalaalattar/jalaalattar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
